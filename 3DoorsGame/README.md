@@ -1,6 +1,6 @@
 # 3doorsgame
 
-This template should help get you started developing with Vue 3 in Vite.
+Based on Vite 3 template
 
 ## Recommended IDE Setup
 
